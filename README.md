@@ -28,7 +28,7 @@ $ ruby -Ilib ./bin/onion-fuzzer fuzz ~/tmp/endpoints.yml
 
 ```
 
-All payloads are in `storage/payloads/` and fin pattern in `storage/patterns/`. Feel free to add more ([SecLists](https://github.com/danielmiessler/SecLists) for example)
+All payloads are in `storage/payloads/` and patterns in `storage/patterns/`. Feel free to add more ([SecLists](https://github.com/danielmiessler/SecLists) for example)
 
 ## Endpoints template
 ```
