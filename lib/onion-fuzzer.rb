@@ -1,0 +1,13 @@
+require "onion-fuzzer/version"
+require 'onion-fuzzer/attack'
+require 'onion-fuzzer/storage'
+require 'onion-fuzzer/analyser'
+require 'onion-fuzzer/attacks/xss'
+require 'onion-fuzzer/attacks/sqli'
+require 'onion-fuzzer/attacks/bsqli'
+require 'onion-fuzzer/attacks/lfi'
+require 'onion-fuzzer/attacks/xpath'
+require 'onion-fuzzer/report'
+require 'onion-fuzzer/cli'
+require 'yaml'
+require 'colorize'
